@@ -6,11 +6,11 @@ Prerequisites :
 
 install the requirements using:
 
->> pip install requirements.txt
+$ pip install requirements.txt
 
 To run the application:
 
->> python longest_common_substring.py
+$ python longest_common_substring.py
 
 Endpoint - http://localhost/lcs
 
